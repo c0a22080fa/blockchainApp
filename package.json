@@ -13,6 +13,8 @@
     "hardhat": "^2.18.2"
   },
   "dependencies": {
-    "@openzeppelin/contracts": "^4.9.3"
+    "@openzeppelin/contracts": "^4.9.3",
+    "next": "^13.4.13",
+    "react-scripts": "^5.0.1"
   }
 }
